@@ -1,0 +1,15 @@
+ON SERVER SIDE: 
+
+PS C:\Users\Dell\Documents\5th sem\NETWORKS\cn codes> cd .\cnassignments\
+PS C:\Users\Dell\Documents\5th sem\NETWORKS\cn codes\cnassignments> py 
+.\tcpserver.py
+Waiting for connection
+Connecttion established ('127.0.0.1', 51179)
+This is a msg from client
+
+
+ON CLIENT SIDE: 
+
+PS C:\Users\Dell\Documents\5th sem\NETWORKS\cn codes> cd .\cnassignments\
+PS C:\Users\Dell\Documents\5th sem\NETWORKS\cn codes\cnassignments> py .\tcpclient.py
+This is a msg from server
