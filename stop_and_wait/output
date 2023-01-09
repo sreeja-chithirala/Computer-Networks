@@ -1,0 +1,22 @@
+Sender side:
+
+PS C:\Users\Dell\Documents\5th sem\NETWORKS\cn codes> cd .\cnassignments\
+PS C:\Users\Dell\Documents\5th sem\NETWORKS\cn codes\cnassignments> py 
+.\stopandwait_sender.py
+Sender ready and is listening
+Receiver ('127.0.0.1', 51919) connected
+Send data -->hi how are you
+Acknowledgement: Message Received
+Send data -->iam doing well
+Acknowledgement: Message Received
+Send data -->did you eat?
+Acknowledgement: Message Received
+
+Receiver side:
+
+PS C:\Users\Dell\Documents\5th sem\NETWORKS\cn codes> cd .\cnassignments\
+PS C:\Users\Dell\Documents\5th sem\NETWORKS\cn codes\cnassignments> py 
+.\stopandwait_receiver.py 
+Received --> hi how are you
+Received --> iam doing well
+Received --> did you eat?
