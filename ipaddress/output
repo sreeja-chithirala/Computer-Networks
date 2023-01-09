@@ -1,0 +1,8 @@
+Enter the ip address: 122.282.66.123
+122.282.66.123 belongs to classA.
+The default subnet mask is 255.0.0.0
+The number of hosts are: 2 ^ 24 - 2 = 16777214
+The network id is: 122.0.0.0
+The broadcast id is: 122.255.255.255
+Enter the number of hosts: 35
+The subnet mask is: 255.255.255.192
