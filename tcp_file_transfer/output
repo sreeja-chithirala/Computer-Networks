@@ -1,0 +1,16 @@
+SERVER SIDE:
+
+PS C:\Users\Dell\Documents\5th sem\NETWORKS\cn codes> cd .\cnassignments\
+PS C:\Users\Dell\Documents\5th sem\NETWORKS\cn codes\cnassignments> py 
+.\filetransferserver.py
+Waiting for connection
+Connection establissed: ('127.0.0.1', 50873)
+
+CLIENT SIDE:
+
+PS C:\Users\Dell\Documents\5th sem\NETWORKS\cn codes> cd .\cnassignments\
+PS C:\Users\Dell\Documents\5th sem\NETWORKS\cn codes\cnassignments> py 
+.\filetransferclient.py
+Hello!
+My name is Sreeja Chithirala.
+Iam currently pursuing BTECH 3rd year in computer science engineering.PS
