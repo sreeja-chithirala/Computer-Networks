@@ -1,0 +1,15 @@
+SERVER SIDE:
+
+PS C:\Users\Dell\Documents\5th sem\NETWORKS\cn codes> cd .\cnassignments\
+PS C:\Users\Dell\Documents\5th sem\NETWORKS\cn codes\cnassignments> py 
+.\udpserver.py
+Waiting for connection
+Connected to ('127.0.0.1', 57825)
+b'This is UDP client'
+
+CLIENT SIDE: 
+
+PS C:\Users\Dell\Documents\5th sem\NETWORKS\cn codes> cd .\cnassignments\
+PS C:\Users\Dell\Documents\5th sem\NETWORKS\cn codes\cnassignments> py 
+.\udpclient.py
+b'This is UDP server'
